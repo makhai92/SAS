@@ -23,7 +23,7 @@
 - 하단: 금주 예약리스트(순번, 날짜, 예약시간, 입금현황, 인원수, 좌석번호, 손님이름, 노쇼/방문여부, 삭제여부)
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20Spoon%20&%20Smiles&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20Spoon%20Smiles&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Spoon&Smiles </h2>  
