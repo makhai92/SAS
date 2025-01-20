@@ -23,11 +23,11 @@
 - 하단: 금주 예약리스트(순번, 날짜, 예약시간, 입금현황, 인원수, 좌석번호, 손님이름, 노쇼/방문여부, 삭제여부)
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20Calorie_Bus&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20Spoon%20&%20Smiles&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> calorie_bus </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 칼로리버스는 운동정보와 다이어트정보는 공유하며 공구도 하는 사이트입니다 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Spoon&Smiles </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 어플리케이션을 활용한 예약 시스템으로 Web예약 시스템을 개발했습니다. 소비자들과 점주들이 보기 편하고 사용하기 편하도록 제작했습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
